@@ -1,4 +1,4 @@
-const mongoose = require('mongoose');
+const mongoose = require('mongoose'); //.set('debug', true);
 const model = mongoose.model('trips');
 
 //Get /trips - lists all the trips
@@ -8,8 +8,8 @@ const tripsList = asynch (req, res) => {
     .exec((err,trips) => {
         if (!trips) {
             return res
-            .statue(404)
-            .json({ "message": "trip not found" });
+            .status(404)
+            .json({ "message": "trips not found" });
         } else if (err) {
             return res
                 .status(404)
@@ -24,8 +24,8 @@ const tripsList = asynch (req, res) => {
     });
 };
 
-//GET: /trips/:trpCode -  returns a single trip
-const tripsFindCode = asynch (req, res) => {
+//GET: /trips/:tripCode -  returns a single trip
+const tripsFindByCode = asynch (req, res) => {
     model
     .find({ 'code': req.params.tripCode})
     .exec((err,trip) => {
@@ -47,5 +47,5 @@ const tripsFindCode = asynch (req, res) => {
 
 module.exports = {
     tripsList,
-    tripsFindCode
+    tripsFindByCode
 };

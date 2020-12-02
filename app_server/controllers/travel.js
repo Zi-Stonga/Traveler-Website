@@ -2,7 +2,8 @@
 const request = require('request');
 const apiOptions = {
     server: 'http://localhost:3000'
-}
+};
+
 
 /* render tavel list view*/
 
@@ -17,14 +18,14 @@ const renderTravelList = (req, res, responseBody) => {
             message = 'NO trips exist in database!';
         }
     }
-    res.render('travel'), {
+    res.render('travel', 
+    {
         title: pageTitle,
         trips: responseBody,
         message
-    });
+    }
+    );
         
-    };
-
 }
 /* GET travel list view */
 const travelList = (req, res) => {
@@ -32,8 +33,8 @@ const travelList = (req, res) => {
     const requestOptions = {
         url:`${apiOptions.server}${path}`,
         method: 'GET',
-        json
-            (method) Console.info(message?: any, ...optionalParams: any[]): void (+1 overload)
+        json: {},
+        
     };
         console.info('>> travelController.travelList calling ' + requestOptions.url);
 
@@ -45,9 +46,9 @@ const travelList = (req, res) => {
                 }
                 renderTravelList(req, res, body);
             }
-         }
+         );
 
-    }
+    };
     module.exports = {
         travelList
 };

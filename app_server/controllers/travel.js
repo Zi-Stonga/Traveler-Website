@@ -5,7 +5,7 @@ const apiOptions = {
 };
 
 
-/* render tavel list view*/
+/* internal method to render travel list view*/
 
 const renderTravelList = (req, res, responseBody) => {
     let message = null;

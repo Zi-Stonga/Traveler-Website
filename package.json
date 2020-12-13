@@ -11,8 +11,10 @@
     "express": "~4.16.1",
     "hbs": "~4.0.4",
     "http-errors": "~1.6.3",
-    "mongoose": "^5.10.18",
+    "mogoose": "0.0.1-security",
+    "mongoose": "^5.11.7",
     "morgan": "~1.9.1",
-    "nodemon": "^2.0.4"
+    "nodemon": "^2.0.6",
+    "readline": "^1.3.0"
   }
 }

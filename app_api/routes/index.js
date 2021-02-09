@@ -9,7 +9,7 @@ router
 
     router
     .route('/trips/:tripCode')
-    .get(tripsController.tripsFindCode);
+    .get(tripsController.tripsFindByCode);
     
 
     module.exports = router;

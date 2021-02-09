@@ -2,7 +2,7 @@ const mongoose = require('mongoose'); //.set('debug', true);
 const model = mongoose.model('trips');
 
 //Get /trips - lists all the trips
-const tripsList = asynch (req, res) => {
+const tripsList = async (req, res) => {
     model
     .find({}) //empty filter for all
     .exec((err,trips) => {
@@ -21,11 +21,11 @@ const tripsList = asynch (req, res) => {
 
 
         }
-    });
+    }) ;
 };
 
 //GET: /trips/:tripCode -  returns a single trip
-const tripsFindByCode = asynch (req, res) => {
+const tripsFindByCode = async (req, res) => {
     model
     .find({ 'code': req.params.tripCode})
     .exec((err,trip) => {

@@ -1,8 +1,11 @@
 ## Welcome to my website!
 
-You can use the [editor on GitHub](https://github.com/Zi-Stonga/cs465-fullstack/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This is where you can look at my projects showcasing all of my skills.  If you wish to see more, click below
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[editor on GitHub](https://github.com/Zi-Stonga/cs465-fullstack/edit/gh-pages/index.md)
+
+A little more about me.
+I have a bachelors degree in Computer Science that I obtained through Southern New Hampsure Universty, go owls! 
 
 ### Markdown
 
@@ -28,10 +31,10 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Projects on Github
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Zi-Stonga/cs465-fullstack/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Please email zistonga@gmail.com for any questions.

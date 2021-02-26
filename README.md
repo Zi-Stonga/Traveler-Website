@@ -1,2 +1,2 @@
-# cs465-fullstack
-CS-465 Full Stack Development with MEAN
+# Zinakho Inga Stonga
+Project Portfolio

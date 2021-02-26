@@ -5,7 +5,7 @@ This is where you can look at my projects showcasing all of my skills.  If you w
 [editor on GitHub](https://github.com/Zi-Stonga/cs465-fullstack/edit/gh-pages/index.md)
 
 A little more about me.
-I have a bachelors degree in Computer Science that I obtained through Southern New Hampsure Universty, go owls! 
+I have a bachelors degree in Computer Science that I obtained through Southern New Hampsure University, go SNHU! 
 
 ### Markdown
 

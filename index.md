@@ -2,7 +2,7 @@
 
 ### Skills
 
-My skills include HTML, CSS, javascript, java and C++.
+My skills include HTML, CSS, javascript, java, python and C++.
 
 
 

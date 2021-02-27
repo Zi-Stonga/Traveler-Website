@@ -1,6 +1,8 @@
-## Welcome to my website!
+## Hello, my name is Zi, and I'm a New York based web developer. I spend my days building projects for clients from all around the globe. 
 
-This is where you can look at my projects showcasing all of my skills.  If you wish to see more, click below
+I have a wide range of skills including HTML, CSS, javascript, python, C++ as well as Java.  
+
+
 
 [editor on GitHub](https://github.com/Zi-Stonga/cs465-fullstack/edit/gh-pages/index.md)
 

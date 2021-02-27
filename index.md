@@ -6,7 +6,7 @@
 
 
 ### Traveler Website
-[](https://damp-shore-80666.herokuapp.com/)
+https://damp-shore-80666.herokuapp.com/
 
 ### Single Page Application
 

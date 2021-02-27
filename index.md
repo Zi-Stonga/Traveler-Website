@@ -1,6 +1,6 @@
 ## Hello, my name is Zi. I'm a New York based web developer. I spend my days building projects for small businesses and clients around the world.
 
-### Skills
+### SKILLS
 
 My skills include HTML, CSS, javascript, java, python and C++.
 
@@ -26,6 +26,6 @@ https://www.youtube.com/watch?v=-s5GSc_nbsw
 
 
 
-### Contact
+### CONTACT
 
 zistonga@gmail.com

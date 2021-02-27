@@ -1,4 +1,4 @@
-## Hello, my name is Zi. I'm a New York based web developer. I spend my days building projects for clients from all around the globe. 
+## Hello, my name is Zi. I'm a New York based web developer. I spend my days building projects for small businesses and clients around the world.
 
 
 ### PROJECTS
